@@ -1,0 +1,39 @@
+/*
+Matt Brundage
+styles.css
+*/
+
+body {
+    background-color: #FFF1DC;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #E8D5C4;
+    border-width: 10px;
+    width: 5%;
+}
+
+h1, h2, h3, h4 {
+    color: #3A98B9;
+}
+
+img {
+    float: left;
+    height: 200px;
+    width: 200px;
+    padding: 12px;
+    padding-top: 0px;
+    padding-left: 0px;
+    border-radius: 50%;
+}
+
+p {
+    clear: left;
+}
+
+footer {
+    text-align: center;
+    padding: 2px;
+}
